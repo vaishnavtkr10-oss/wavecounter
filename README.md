@@ -2,64 +2,94 @@
 
 
 
-# [Project Name] 🎯
+# [WAVES COUNTER] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [THAKKUDU BOYS]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [VAISHNAV NAIR] - [College Of Engineering Trikaripur]
+- Member 2: [RISHIKESH T] - [College Of Engineering Trikaripur]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[🌊 Useless Sea Wave Counter — A fun OpenCV project that detects and counts sea waves from a video using computer vision. Completely pointless, slightly entertaining, and proudly 0% useful! 😂]
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[People have been watching sea waves for centuries, but nobody knows exactly how many waves hit the shore. 🌊
+This project solves this extremely serious problem by automatically counting sea waves — a problem that nobody actually asked us to solve.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We built a computer vision system that watches the sea so that humans don't have to.
+
+The program takes a sea-wave video, detects the white foam created when waves hit the shore, analyzes the changes frame by frame, and counts the waves automatically.
+
+Basically:
+
+Sea → Video → OpenCV → White Foam → Wave Detection → Wave Count 🌊🔢
+
+Because apparently, manually counting waves was too much effort. 😂]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+[Language: Python
+Libraries: OpenCV, NumPy
+GUI: Tkinter
+Computer Vision: HSV-based foam detection and wave-event detection
+IDE/Tools: Visual Studio Code, Git, GitHub]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+[For Hardware:
+No special hardware required
+Laptop/Desktop computer
+Webcam not required
+Any system capable of running Python and OpenCV]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[```bash
+pip install opencv-python numpy]
 
 # Run
-[commands]
+[python useless.py]
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+[https://drive.google.com/drive/folders/1MOm__PVLHJf57Pb9Kmhy7xwW2LUrCZCQ?usp=drive_link]
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![# Workflow
+
+![Workflow](workflow.png)
+
+### Workflow Explanation
+
+```text
+🌊 Sea Wave Video
+        ↓
+📂 Select Video
+        ↓
+🎯 Select Wave Detection Area
+        ↓
+🎥 Read Video Frame by Frame
+        ↓
+⚪ Detect White Sea Foam
+        ↓
+📊 Analyze Foam Movement
+        ↓
+🌊 Detect Wave Event
+        ↓
+🔢 Increase Wave Counter
+        ↓
+🖥️ Display Count on Video
+        ↓
+🏁 Show Final Wave Count]
 
 For Hardware:
 
@@ -82,16 +112,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1D7Rzarnrn2r8HyP-OkybEnEvww1Uehhf/view?usp=drive_link]
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [VAISHNAV NAIR]: [IMPLEMENTION , CODING , DEBUGGING]
+- [RISHIKESH T]: [IDEA SUGGESTION , VIDEO GENERATION]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
