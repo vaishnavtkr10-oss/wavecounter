@@ -91,32 +91,14 @@ For Software:
         ↓
 🏁 Show Final Wave Count]
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [https://drive.google.com/file/d/1D7Rzarnrn2r8HyP-OkybEnEvww1Uehhf/view?usp=drive_link]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
 - [VAISHNAV NAIR]: [IMPLEMENTION , CODING , DEBUGGING]
